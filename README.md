@@ -1,2 +1,7 @@
-# Amrutha_Portfolio
-ex:
+#Wallmart Sales Forecasting
+##Objective:
+This project's main objective is to create a strong predictive model that can estimate weekly sales for Walmart's 45 locations. Our goal is to develop a tool that can accurately predict sales trends by utilizing past data. This will help the company make well-informed decisions regarding supply chain management, inventory optimization, meeting increased demand for its products, store traffic, and tactical markdowns.
+##Importance:
+The profitability and operational effectiveness of Walmart are greatly impacted by the precise forecasting of future weekly sales. Since it helps the business to optimize its inventory and logistical procedures, supply chain management becomes critical. The correct products are always available at the right time and in the right quantities when inventory levels are optimized based on precise sales estimates. Thus, expenses are decreased and customer satisfaction is raised by avoiding stockouts and surplus inventory. Additionally, Walmart can proactively manage store traffic, resource allocation, and markdown planning to maximize revenue and customer engagement using information from accurate sales estimates.
+##Motivation:
+One of the most important tasks in data science is sales forecasting, which is critical to decision-making in many different businesses. This project offers an excellent chance to use and test out various data science methods and algorithms on actual data. We may learn more about the complexities of managing large datasets, examining data patterns, choosing suitable machine learning algorithms, adjusting model parameters, and assessing model performance by investigating this project. We can improve our knowledge and proficiency in the field of predictive analytics through this method of experiential learning, all the while helping one of the biggest retailers in the world—Walmart—with a real-world business problem.
